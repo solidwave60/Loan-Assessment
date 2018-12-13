@@ -12,3 +12,4 @@
 2018-08-13 - chore: monthly co-authored commit
 2018-09-13 - chore: monthly co-authored commit
 2018-11-13 - chore: monthly co-authored commit
+2018-12-13 - chore: monthly co-authored commit
