@@ -30,3 +30,4 @@
 2020-08-13 - chore: monthly co-authored commit
 2020-10-13 - chore: monthly co-authored commit
 2020-11-13 - chore: monthly co-authored commit
+2021-01-13 - chore: monthly co-authored commit
