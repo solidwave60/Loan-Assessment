@@ -4,6 +4,8 @@ This repository contains the code and materials for a **credit underwriting mach
 
 ## Table of Contents
 
+- [End-to-end Credit Underwriting ML Project](#end-to-end-credit-underwriting-ml-project)
+  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Project Structure](#project-structure)
   - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
@@ -75,4 +77,3 @@ However, because of the correlations, we should be careful when interpreting tho
 Challenges faced include the small dataset size and lack of feature descriptions. Recommendations for future work:
 - Collect more data or use data augmentation techniques, and then retrain the models.
 - Consult domain experts for better feature understanding, which will help in the feature engineering and feature selection process.
-
