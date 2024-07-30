@@ -1,1 +1,1 @@
-# Credit-Underwriting
+# Credit Underwriting
