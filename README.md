@@ -4,8 +4,6 @@ This repository contains the code and materials for a **credit underwriting mach
 
 ## Table of Contents
 
-- [End-to-end Credit Underwriting ML Project](#end-to-end-credit-underwriting-ml-project)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Project Structure](#project-structure)
   - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
