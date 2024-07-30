@@ -1,6 +1,6 @@
 # End-to-end Credit Underwriting ML Project
 
-This repository contains the code and materials for a **credit underwriting machine learning project**. The project aims to determine the creditworthiness of loan applicants by predicting whether they should be granted a loan.
+This repository contains the code and materials for a **end-to-end credit underwriting machine learning project**. The project aims to determine the creditworthiness of loan applicants by predicting whether they should be granted a loan.
 
 ## Table of Contents
 
