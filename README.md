@@ -1,6 +1,6 @@
-# End-to-end Credit Underwriting ML Project
+# End-to-end Loan Assessment ML Project
 
-This repository contains the code and materials for a **end-to-end credit underwriting machine learning project**. The project aims to determine the creditworthiness of loan applicants by predicting whether they should be granted a loan.
+This repository contains the code and materials for a **end-to-end loan assessment machine learning project**. The project aims to determine the creditworthiness of loan applicants by predicting whether they should be granted a loan.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ This repository contains the code and materials for a **end-to-end credit underw
 
 ## Introduction
 
-**Credit underwriting** is the process of determining the **creditworthiness** of a loan applicant, which helps financial institutions manage risks and ensure profitability. Accurate credit underwriting decisions protect lenders from financial losses and support borrowers in accessing fair credit opportunities.
+**loan assessment** is the process of determining the **creditworthiness** of a loan applicant, which helps financial institutions manage risks and ensure profitability. Accurate credit underwriting decisions protect lenders from financial losses and support borrowers in accessing fair credit opportunities.
 
 In this project, we use machine learning to model credit underwriting as a **supervised binary classification problem**, where the target variable indicates **whether a loan defaults ('Bad', 0) or not ('Good', 1)**.
 
